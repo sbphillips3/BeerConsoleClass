@@ -24,7 +24,7 @@ def print_header():
     print('-----------------------------------------------------------------------')
     print('Beer                       |   Type             |    ABV')
     print('-----------------------------------------------------------------------')
-
+    print('-----------------------------------------------------------------------')
 # method print_beer(beer) checks object to make sure it is a beer, if it is
 # it is then printed in a formatted string to the console
 # @params beer
